@@ -17,5 +17,6 @@ public class C06_DriverManageMethodlari {
         //driver'in bekleyebilecegi maximum sureyi belirler
 
         // bu dortlu her test methodu'nun basina yazilacak
+
     }
 }
